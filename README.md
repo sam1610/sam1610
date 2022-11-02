@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sam1610
 - 👀 I’m interested in AWS Amplify  ,ML and DL
 - 🌱 I’m currently learning DL ON AWS Ssgemaker  , AWS Polly /Transcribe implementation services, 
-- 💞️ I’m looking to collaborate on Language learning for Education purpouse with AWS adequate services implementation
+- 💞️ I’m looking to collaborate on Language learning for Education purpose with AWS adequate services implementation
 - 📫 How to reach me Just DM on samir.amri@gmail.com
 
 <!---
